@@ -2764,17 +2764,6 @@ foo<script>alert(1)</script>
 
 * [XSS Cheat Sheet](https://leanpub.com/xss)
 
-
-### Cloning an Existing Repository ( Clone with HTTPS )
-```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-list.git
-```
-
-### Cloning an Existing Repository ( Clone with SSH )
-```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
-```
-
 ### Published Website :
 
 ##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
